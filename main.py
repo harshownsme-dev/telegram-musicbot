@@ -32,7 +32,7 @@ RED = "\033[91m"
 RESET = "\033[0m"
 
 # --- CONFIGURATION ---
-TOKEN = '8595967891:AAHenASzvdDxlJmcKWRheQ6WOKfF_x3t8GA'
+TOKEN = '8595967891:AAHCY-tSVBjqMAMssEXhDnzyIe7L7KQxJi0'
 OWNER_ID = 8276411342  
 CREDIT_TEXT = "Music bot by Dev [ @harshxera ] 💀"
 START_TEXT = "Bot alive Dev [ @harshxera ]"
