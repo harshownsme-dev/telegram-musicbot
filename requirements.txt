@@ -1,1 +1,3 @@
-https://github.com/harshownsme-dev/telegram-musicbot.git
+python-telegram-bot
+yt-dlp
+
